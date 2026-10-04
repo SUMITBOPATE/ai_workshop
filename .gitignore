@@ -4,5 +4,8 @@ venv/
 __pycache__/
 *.py[cod]
 .pytest_cache/
+.ipynb_checkpoints/
+api_key.txt
+*.pdf
 .idea/
 .vscode/
